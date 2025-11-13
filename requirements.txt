@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+altair
+openpyxl
+ydata-profiling
+scikit-learn
+tqdm
+pyarrow
+matplotlib
+seaborn
